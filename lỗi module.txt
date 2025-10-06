@@ -1,0 +1,11 @@
+index : sản phẩm chưa mua được , them vào giỏ hangf chưa liên kết với giỏ hàng ,phần thương hiệu khi click vào chưa hiện ra trang bào báo , thin tức và sự kiện , chưa hiện ,  video 
+phần cuối trang chưa định dạng xong . 
+ - giới thiệu : phần 💖 Lời cảm ơn chân thành chưa có chức năng , phần 🌐 Kết nối với chúng tôi chưa úng link , layout bị che chữ . chưa có phần cuối 
+
+- danh mục sản phẩm : layout che chữ , chưa có phần cuối , chưa kết nối link hình
+ chưa kết nối với giỏ hang .    
+- cưa hang chưa có nút quay về .
+-chưa có hình , kothể mua , chưa kết nối với danh mục 
+them giỏ hang chưa hiển thị , ko quay về trang chính ,   
+- bảo hành : ko quay về tranh chủ .
+- link chức năng cày chưa đc.                                                                     
